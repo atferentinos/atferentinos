@@ -3,7 +3,7 @@
 
 Skills: PYTHON / R /
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working my MSDS. 
 - 🌱 I’m currently learning Bioinformatics  
 - 👯 I’m looking to collaborate on Projects 
 - 🤔 I’m looking for help with C++ 
