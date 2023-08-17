@@ -1,20 +1,25 @@
-### Hi there 👋, my name is Alexandra Ferentinos
-#### I am a Graduate Student at the University of Virginia's School of Data Science
+<h1 align="center">Hi 👋, I'm Alexandra Ferentinos</h1>
+<h3 align="center">A Graduate student at the University of Virginia</h3>
 
-Skills: PYTHON / R /
+- 🌱 I’m currently learning **Bioinformatics**
 
-- 🔭 I’m currently working my MSDS. 
-- 🌱 I’m currently learning Bioinformatics  
-- 👯 I’m looking to collaborate on Projects 
-- 🤔 I’m looking for help with C++ 
-- 📫 How to reach me: aferentinos9@gmail.com 
+- 👯 I’m looking to collaborate on **Projects**
+
+- 🤝 I’m looking for help with **C++**
+
+- 📫 How to reach me **aferentinos9@gmail.com**
+
+- ⚡ Fun fact **I actually enjoy subtitles in anime**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alexandra-ferentinos-27325a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra-ferentinos-27325a225/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p align="left"> <a href="https://www.github.com/atferentinos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atferentinos)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atferentinos&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=atferentinos)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atferentinos&" alt="atferentinos" /></p>
 
