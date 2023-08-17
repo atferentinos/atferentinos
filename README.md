@@ -1,34 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandra Ferentinos
-============================================================================================================================================
+### Hi there 👋, my name is Alexandra Ferentinos
+#### I am a Graduate Student at the University of Virginia's School of Data Science
 
-Data Science Graduate Student
------------------------------
+Skills: PYTHON / R /
 
-I'm currently a Graduate Student at the University of Virginia School of Data Science pursuing a MS in Data Science
-
-* 🌍  I'm based in Reston Virginia
-* ✉️  You can contact me at [aferentinos9@gmail.com](mailto:aferentinos9@gmail.com)
-* 🧠  I'm learning Bioinformatics and Stat errors
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I do enjoy watching films with subtitles
-
-<a href="https://www.github.com/atferentinos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/atferentinos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Bioinformatics  
+- 👯 I’m looking to collaborate on Projects 
+- 🤔 I’m looking for help with C++ 
+- 📫 How to reach me: aferentinos9@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atferentinos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alexandra-ferentinos-27325a225//)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atferentinos)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atferentinos&show_icons=true)  
 
-### Socials
+![GitHub streak stats](https://streak-stats.demolab.com/?user=atferentinos)  
 
-<p align="left"> <a href="https://www.github.com/atferentinos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alexandra-ferentinos-27325a225/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-
-<a href="http://www.github.com/atferentinos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atferentinos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
