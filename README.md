@@ -18,9 +18,7 @@ src="https://img.shields.io/github/followers/atferentinos?logo=github&style=for-
 ### Skills
 
 
-<p align="left">
-ICON ICON ICON
-</p>
+
 
 
 ### Socials
@@ -29,3 +27,8 @@ ICON ICON ICON
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+
+
+<a href="http://www.github.com/atferentinos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atferentinos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
