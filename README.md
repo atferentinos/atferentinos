@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alexandra Ferentinos</h1>
+<h1 align="center">Hi 👋, I'm Alexandra Ferentinos Adams</h1>
 <h3 align="center">A Graduate student at the University of Virginia</h3>
 
-- 🌱 I’m currently learning **Bioinformatics**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Projects**
 
